@@ -8,7 +8,7 @@ const NavBar = () => {
   return (
     <div className='navbar'>
       <div>
-        <img src="https://w7.pngwing.com/pngs/337/572/png-transparent-dying-light-techland-dead-island-pure-farming-2018-video-game-dead-island-game-orange-logo.png" alt="Logo" style={{width : "140px"}}/>
+        <img src="https://w7.pngwing.com/pngs/337/572/png-transparent-dying-light-techland-dead-island-pure-farming-2018-video-game-dead-island-game-orange-logo.png" alt="Logo" style={{width : "150px"}}/>
       </div>
         <Menu>
             <MenuButton as={Button} rightIcon={<TiArrowSortedDown />}>
